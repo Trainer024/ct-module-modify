@@ -1,0 +1,46 @@
+{
+    "powderCoords": {
+        "x": 0,
+        "y": 0
+    },
+    "tickTimerCoords": {
+        "x": 427,
+        "y": 250
+    },
+    "invincibilityCoords": {
+        "x": 427,
+        "y": 220
+    },
+    "pingCoords": {
+        "x": 0,
+        "y": 0
+    },
+    "tpsCoords": {
+        "x": 84,
+        "y": 0
+    },
+    "bpsCoords": {
+        "x": 252,
+        "y": 0
+    },
+    "fpsCoords": {
+        "x": 168,
+        "y": 0
+    },
+    "powerCoords": {
+        "x": 713.2234497070312,
+        "y": 47.666656494140625
+    },
+    "gardenCoords": {
+        "x": 793.3333333333333,
+        "y": 249
+    },
+    "PB": {
+        "panes": 1.9,
+        "color": 1.368,
+        "numbers": 3.621,
+        "melody": 2.865,
+        "startsWith": 1.134,
+        "select": 1.255
+    }
+}
